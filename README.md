@@ -1,4 +1,4 @@
-![alt text](https://imgur.com/8PjNT4x "Carlos's Trillo ")
+![alt text](https://i.imgur.com/8PjNT4x.png "Carlos's Trillo ")
 
 ## [Carlos's live Trillo website](http://trillo-carmar.surge.sh/ "Carlos Trillo website")
 
